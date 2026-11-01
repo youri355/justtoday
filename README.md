@@ -3,7 +3,7 @@
 내일 걱정 말고, 오늘만 하자. 윈도우 화면 맨 위에 늘 떠 있는 할 일 · 뽀모도로 · 하루 기록 위젯 · 만든 사람 겨울작가 (AI 수익화 전문) · https://theaiwk.com
 
 ## 다운로드
-**[JUST TODAY 최신 버전 받기](https://github.com/youri355/justtoday/releases/latest)** → 페이지 아래 Assets에서 `JustToday_버전.zip`
+**[JUST TODAY 최신 버전 받기](https://github.com/youri355/justtoday/releases/latest)** → 페이지 아래 Assets에서 맨 위 `JustToday_버전.zip` **하나만** 받으세요 (나머지 .sha256 · Source code 파일은 받지 않아도 돼요)
 
 ## 그림으로 된 사용 안내
 https://docs.google.com/document/d/1YlNKER0NeuQNCAEFd-Cj18vatHs3FSL4QeCS2u6ZVIs/edit?usp=sharing
